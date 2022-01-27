@@ -17,13 +17,14 @@ Here, replace the name_of_model.pth with the actual name of the model that you s
 ![Alt text](sample_output.png "Sample output")
 
 # Future Improvements:
-- [ ] For all the images that are memes, create meta tags based on:
-- [ ] Identify different meta tags for the images based on:
+
+For all the images that are memes, create meta tags based on:
 - [ ] Celebrity present in the meme (Pending)
 - [ ] Popular meme templates and references (Pending)
 - [ ] Text present in the meme
 - [ ] Topic of conversation in the text (Pending)
 - [ ] Sentiment analysis of the test (Pending)
+
 - [ ] Store the image path and meta tags in a db (Pending)
 - [ ] Provide an interface to retrieve the meme image from the db based on the meta tags via search (Pending)
 
